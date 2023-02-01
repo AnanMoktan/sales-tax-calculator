@@ -1,0 +1,40 @@
+body{
+    margin: auto;
+    width: 600px;
+    border: 3px solid blue;
+    padding: 1em 2em 2em 1em;
+    box-shadow: 2px 3px 5px 5px #777777;
+    -webkit-box-shadow:2px 3px 5px 5px #777777;
+    -moz-box-shadow:2px 3px 5px 5px #777777;
+}
+h1{
+    color: blue;
+}
+label{
+    display: inline-block;
+    width: 11em;
+    text-align: right;
+}
+input{
+    margin-left: 1em;
+    margin-right: 0.5em;
+    font-size: x-large;
+}
+input[type=button]{
+    width: 10em;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow: 2px 3px 1px 2px #777777;
+    -webkit-box-shadow: 2px 3px 1px 2px #777777;
+    -moz-box-shadow: 2px 3px 1px 2px #777777;
+}
+#Sales_Tax{
+    background-color:gainsboro;
+}
+#Total{
+    background-color:gainsboro;  
+}
+div{
+    
+    margin-bottom: 1%;
+}
